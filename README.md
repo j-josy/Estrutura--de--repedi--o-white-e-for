@@ -1,2 +1,3 @@
-# Estrutura -de -repedição
+# Estrutura -de -repedição while e for
+ 
  trabalho de aula
